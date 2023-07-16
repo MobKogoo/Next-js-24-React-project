@@ -1,0 +1,43 @@
+{
+  "name": "next-js-24-react-project-meetup-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@awit123you/library": "0.1.39",
+    "aws-sign2": "0.7.0",
+    "bson": "5.2.0",
+    "bson-ext": "4.0.3",
+    "bson-objectid": "2.0.4",
+    "loader-utils": "3.2.1",
+    "modules": "0.4.0",
+    "mongodb": "5.1.0",
+    "mongoose": "7.0.3",
+    "next": "13.4.7",
+    "nextjs": "0.0.3",
+    "node": "19.8.1",
+    "node-gyp": "9.3.1",
+    "node-modules-regexp": "1.0.0",
+    "nodejs": "0.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
